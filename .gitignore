@@ -1,0 +1,49 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+*.code-workspace
+
+## Logs
+*.log
+
+## Dotnet tools
+*.pdb
+
+## ASP.NET Core secrets
+secrets.json
+
+## Visual Studio
+.vs/
+
+## Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+## Docker
+**/Dockerfile
+**/docker-compose*
+
+## Publish output
+publish/
+*.publish.xml
+
+## NPM (se usar com frontend)
+node_modules/

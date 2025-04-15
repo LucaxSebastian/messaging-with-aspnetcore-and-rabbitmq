@@ -1,0 +1,6 @@
+@messaging_with_aspnetcore_and_rabbitmq_HostAddress = http://localhost:5140
+
+GET {{messaging_with_aspnetcore_and_rabbitmq_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
