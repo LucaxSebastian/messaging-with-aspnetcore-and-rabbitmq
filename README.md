@@ -9,7 +9,6 @@ This project demonstrates how to:
 - Set up a message-based architecture with MassTransit.
 - Use RabbitMQ as a message broker.
 - Publish and consume messages between services.
-- Structure a clean and testable ASP.NET Core application with messaging support.
 
 ## ⚙️ Tech Stack
 
